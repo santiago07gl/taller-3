@@ -1,4 +1,4 @@
-
+    
 function calculadora(num, num2, operador){
     switch (operador){
         case "+":
@@ -17,4 +17,4 @@ function calculadora(num, num2, operador){
             console.log("Operador no válido");
     }
 }
-calculadora(10, 5, "+");
+calculadora(10, 8, "*");

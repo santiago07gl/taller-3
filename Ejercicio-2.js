@@ -9,4 +9,4 @@ function tablaMultiplicar(num, cantidad){
     
 }
 
-tablaMultiplicar(2, 25)
+tablaMultiplicar(2, 15)

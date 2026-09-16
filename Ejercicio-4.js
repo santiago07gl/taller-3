@@ -7,6 +7,7 @@ const estudiante = {
         "Programación"
     ]
 };
+
 estudiante.edad = 25;
 console.log(estudiante.edad);
 estudiante.materias.push("Bases de Datos");

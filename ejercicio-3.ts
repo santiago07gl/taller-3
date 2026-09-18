@@ -15,9 +15,10 @@ let producto1: Producto = {
 let producto2: Producto = {
     id: 1202,
     nombre: 'papa',
-    precio: 1200,
+    precio: 3000,
     disponible: false
 }
 
 console.log(producto1);
 console.log(producto2);
+
